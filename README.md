@@ -16,7 +16,7 @@
 
 ### Решение:
 #### Конфигурационный файл haproxy
-[text](../../Downloads/haproxy.cfg)
+[haproxy.cfg](https://github.com/Mikhalkevich-N/Clustering-and-load-balancing/blob/main/haproxy.cfg)
 
 #### Перенаправление запросов на разные серверы при обращении к HAProxy
 ![png](image.png)
@@ -31,7 +31,7 @@
 
 ### Решение:
 #### Конфигурационный файл haproxy
-[conf.file](../../Downloads/haproxy2.cfg)
+[conf.file](https://github.com/Mikhalkevich-N/Clustering-and-load-balancing/blob/main/haproxy2.cfg)
 ![png](image-2.png)
 
 Перенаправление запросов на разные серверы при обращении к HAProxy с использованием домена example.local и без него:
